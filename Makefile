@@ -1,3 +1,3 @@
-Lab1: main.cpp
+Lab2: main.cpp
    g++ -o ./lab2 lab2.cpp
-   
+   ./lab2
